@@ -1,0 +1,9 @@
+
+fdfs:
+  soTimeout: 1501
+  connectTimeout: 601
+  thumbImage:
+    width: 150
+    height: 150
+  trackerList:            #TrackerList参数,支持多个
+  - 10.3.34.34:22122
